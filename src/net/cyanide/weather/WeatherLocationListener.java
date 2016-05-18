@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-package net.darkkatroms.weather;
+package net.cyanide.weather;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;

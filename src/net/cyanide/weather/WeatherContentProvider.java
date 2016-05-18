@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package net.darkkatroms.weather;
+package net.cyanide.weather;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
@@ -24,7 +24,7 @@ import android.database.MatrixCursor;
 import android.net.Uri;
 import android.util.Log;
 
-import net.darkkatroms.weather.WeatherInfo.DayForecast;
+import net.cyanide.weather.WeatherInfo.DayForecast;
 
 public class WeatherContentProvider extends ContentProvider {
     private static final String TAG = "WeatherService:WeatherContentProvider";
@@ -82,7 +82,7 @@ public class WeatherContentProvider extends ContentProvider {
             COLUMN_LOCATION
     };
 
-    public static final String AUTHORITY = "net.darkkatroms.weather.provider";
+    public static final String AUTHORITY = "net.cyanide.weather.provider";
 
     private static final UriMatcher sUriMatcher;
     static {

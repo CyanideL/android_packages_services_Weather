@@ -15,8 +15,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-	<string name="app_name">DK Weather Service</string>
-	<string name="weather_settings_title">Weather settings</string>
+	<string name="app_name">Cyanide Weather Service</string>
+	<string name="weather_settings_title">Weather Settings</string>
 
     <!-- CyanogenMod additions -->
 

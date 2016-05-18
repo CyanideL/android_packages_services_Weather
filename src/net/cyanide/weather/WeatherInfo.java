@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.darkkatroms.weather;
+package net.cyanide.weather;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;

@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-package net.darkkatroms.weather;
+package net.cyanide.weather;
 
 import android.Manifest;
 import android.app.AlertDialog;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.darkkatroms.weather;
+package net.cyanide.weather;
 
 import java.io.IOException;
 import java.io.StringReader;
@@ -28,7 +28,7 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import net.darkkatroms.weather.WeatherInfo.DayForecast;
+import net.cyanide.weather.WeatherInfo.DayForecast;
 
 import org.json.JSONArray;
 import org.json.JSONException;
