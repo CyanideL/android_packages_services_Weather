@@ -15,8 +15,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <color name="color_background">#ff1b1f23</color>
-    <color name="theme_primary">#ff263238</color>  <!-- material_blue_grey_900 -->
-    <color name="theme_primary_dark">#ff21272b</color>  <!-- material_blue_grey_950 -->
-    <color name="theme_accent">#ff009688</color>  <!-- material_deep_teal_500 -->
+    <color name="color_background">#ff000000</color>
+    <color name="theme_primary">#ff000000</color>  <!-- material_blue_grey_900 -->
+    <color name="theme_primary_dark">#ff000000</color>  <!-- material_blue_grey_950 -->
+    <color name="theme_accent">#ff1976D2</color>  <!-- material_deep_teal_500 -->
 </resources>
