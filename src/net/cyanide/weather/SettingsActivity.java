@@ -27,7 +27,6 @@ import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.location.LocationManager;
 import android.os.Bundle;
-import android.preference.CheckBoxPreference;
 import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.Preference.OnPreferenceChangeListener;
@@ -42,7 +41,7 @@ public class SettingsActivity extends PreferenceActivity implements OnPreference
 
     private SharedPreferences mPrefs;
     private ListPreference mProvider;
-    private CheckBoxPreference mCustomLocation;
+    private SwitchPreference mCustomLocation;
     //private CheckBoxPreference mAutoUpdates;
     private ListPreference mUnits;
     private SwitchPreference mEnable;
@@ -63,7 +62,7 @@ public class SettingsActivity extends PreferenceActivity implements OnPreference
         addPreferencesFromResource(R.xml.settings);
 
         mEnable = (SwitchPreference) findPreference(Config.PREF_KEY_ENABLE);
-        mCustomLocation = (CheckBoxPreference) findPreference(Config.PREF_KEY_CUSTOM_LOCATION);
+        mCustomLocation = (SwitchPreference) findPreference(Config.PREF_KEY_CUSTOM_LOCATION);
         //mAutoUpdates = (CheckBoxPreference) findPreference(Config.PREF_KEY_AUTO_UPDATE);
 
         mProvider = (ListPreference) findPreference(Config.PREF_KEY_PROVIDER);
