@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Cyanide Android
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- General -->
+    <string name="unknown">Inconnu</string>
+    <string name="menu_done">Terminé</string>
+
+    <!-- Weather codes -->
+    <string name="weather_0">Tornade</string>
+    <string name="weather_1">Tempête Tropicale</string>
+    <string name="weather_2">Ouragan</string>
+    <string name="weather_3">Orage Violent</string>
+    <string name="weather_4">orage</string>
+    <string name="weather_5">Mélange Pluie et Neige</string>
+    <string name="weather_6">Mélange Pluie et Grésil</string>
+    <string name="weather_7">Mélange Neige et Grésil</string>
+    <string name="weather_8">Bruine Verglaçante</string>
+    <string name="weather_9">Verglas</string>
+    <string name="weather_10">Pluie Verglaçante</string>
+    <string name="weather_11">Averses</string>
+    <string name="weather_12">Averses</string>
+    <string name="weather_13">Averses de Neige</string>
+    <string name="weather_14">Averses de Neige Légere</string>
+    <string name="weather_15">Bourasque de Neige</string>
+    <string name="weather_16">Neige</string>
+    <string name="weather_17">Grêle</string>
+    <string name="weather_18">Grésil</string>
+    <string name="weather_19">Poussière</string>
+    <string name="weather_20">Brumeux</string>
+    <string name="weather_21">Brume</string>
+    <string name="weather_22">Fumée</string>
+    <string name="weather_23">Bourasque</string>
+    <string name="weather_24">Venteux</string>
+    <string name="weather_25">Froid</string>
+    <string name="weather_26">Nuageux</string>
+    <!-- Night -->
+    <string name="weather_27">Plutôt Nuageux</string>
+    <!-- Day -->
+    <string name="weather_28">Plutôt Nuageux</string>
+    <!-- Night -->
+    <string name="weather_29">Partiellement Nuageux</string>
+    <!-- Day -->
+    <string name="weather_30">Partiellement Nuageux</string>
+    <!-- Night -->
+    <string name="weather_31">Clair</string>
+    <string name="weather_32">Ensoleillé</string>
+    <!-- Night -->
+    <string name="weather_33">Beau</string>
+    <!-- Day -->
+    <string name="weather_34">Beau</string>
+    <string name="weather_35">Mélange Pluie et Grêle</string>
+    <string name="weather_36">Chaud</string>
+    <string name="weather_37">Orages Isolée</string>
+    <string name="weather_38">Orages Éparse</string>
+    <string name="weather_39">Orages Éparse</string>
+    <string name="weather_40">Averses Éparse</string>
+    <string name="weather_41">Neige Abondante</string>
+    <string name="weather_42">Averse de Neige Éparse</string>
+    <string name="weather_43">Neige Abondante</string>
+    <string name="weather_44">Partiellement Nuageux</string>
+    <string name="weather_45">Orages Électrique</string>
+    <string name="weather_46">Averses de Neige</string>
+    <string name="weather_47">Orages Électrique Isolées</string>
+
+</resources>
